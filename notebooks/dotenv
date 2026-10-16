@@ -1,0 +1,7 @@
+GCP_PROJECT_ID=my-gcp-project
+BUCKET_NAME=my-storage-bucket
+LOCATION=asia-southeast1
+FRED_API_KEY=your_fred_key
+TWELVE_DATA_API_KEY=your_twelve_data_key
+TWILIO_ACCOUNT_SID=your_account_sid
+TWILIO_AUTH_TOKEN=your_auth_token
