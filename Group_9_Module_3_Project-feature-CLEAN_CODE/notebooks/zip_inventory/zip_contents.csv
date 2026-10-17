@@ -1,0 +1,104 @@
+﻿source,file_type,file_name,size_bytes
+Folder,.csv,Fred CBOE gold volatity GVZCLS.csv,79691
+Folder,.csv,Fred consumer sentiment index UMCSENT.csv,8513
+Folder,.csv,Fred Effective Fund Interest DFF.csv,271415
+Folder,.csv,Fred Gold and silver index PCU2122212122210 (1).csv,6252
+Folder,.csv,FRED INFLATION CONSUMER INDEX CPIAUCSL.csv,9450
+Folder,.csv,Fred Market Yield US Treasury 10 yrs GS10.csv,192595
+Folder,.csv,Fred Market Yield US Treasury 2 yrs DGS10.csv,192595
+Folder,.csv,Fred nominal US Dollar Index DTWEXBGS.csv,103661
+Folder,.csv,Fred Oil Price Index DCOILWTICO.csv,173994
+Folder,.csv,Fred Production Index Output INDPRO.csv,10302
+Folder,.csv,Fred Real Dollar Index RTWEXBGS.csv,4678
+Folder,.csv,Fred Real Gross Domestic Product GDPC1.csv,3721
+Folder,.csv,Fred recession rate alfredgraph.csv,130363
+Folder,.csv,Fred Season Bond Yield BAA.csv,8630
+Folder,.csv,Fred Unemployment Rate UNRATE.csv,7917
+Folder,.csv,Fred US treasury Interest 2 yrs DGS2.csv,207046
+Folder,.csv,US economic Uncertainty Categorical_EPU_Data.csv,75661
+ZIP,.csv,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/GS10.csv,14206
+ZIP,.csv,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/TB3MS (1).csv,17865
+ZIP,.csv,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/T10Y3M.csv,186197
+ZIP,.csv,Module 3 Project Datasets/08 Return Predictors & Factors/Goyal PredictorData2025.xlsx - Monthly.csv,261749
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2007.csv,1634455
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2008.csv,1691750
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2009.csv,1657680
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2010.csv,1312602
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2011.csv,1067961
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2012.csv,1048677
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2013.csv,1148886
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2014.csv,1253638
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2015.csv,1265048
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2016.csv,1281036
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2017.csv,1243718
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2018.csv,1266505
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2019.csv,1259965
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2020.csv,1307821
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2021.csv,1556628
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2022.csv,1743233
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2023.csv,1746781
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2024.csv,1666628
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2025.csv,1743353
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/CBOE Options Volume Annual/monthly_volume_2026.csv,1433781
+ZIP,.csv,Module 3 Project Datasets/09 Volatility & Options/VIX_History.csv,473125
+ZIP,.csv,Module 3 Project Datasets/Incomplete - Needs Resourcing/totalpc.csv,139830
+ZIP,.csv,Module 3 Project Datasets/Incomplete - Needs Resourcing/totalpcarchive.csv,87307
+ZIP,.csv,Module 3 Project Datasets/Stale - Superseded/CRSP Daily/on8vpxlguorwmna0.csv,2476989948
+Folder,.docx,Link to Fred n other website.docx,15056
+ZIP,.duckdb,Module 3 Project Datasets/11 Model Dataset/stock_month_panel.duckdb,710422528
+ZIP,.md,Module 3 Project Datasets/DATA_DICTIONARY.md,33232
+ZIP,.pdf,Module 3 Project Datasets/10 Research Papers/A Comprehensive 2022 Look at the Empirical Performance of Equity Premium Prediction.pdf,1912913
+ZIP,.pdf,Module 3 Project Datasets/10 Research Papers/Does Academic Research Destroy Stock Return Predictability.pdf,1870618
+ZIP,.pdf,Module 3 Project Datasets/10 Research Papers/Pretrained Time-Series Foundation Models for Financial Return Forecasting.pdf,2155661
+ZIP,.py,Module 3 Project Datasets/11 Model Dataset/audit_model_panel.py,3953
+ZIP,.py,Module 3 Project Datasets/11 Model Dataset/build_model_panel.py,33467
+ZIP,.sql,Module 3 Project Datasets/03 Compustat Fundamentals/Compustat Quarterly Standalone.sql,2180
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/AAA.xlsx,24700
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/BAA.xlsx,24870
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/CFNAI.xlsx,16467
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/CPIAUCSL.xlsx,20566
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/CPILFESL.xlsx,18777
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/DAAA.xlsx,155233
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/DBAA.xlsx,145002
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/GS2.xlsx,15082
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/ICSA.xlsx,49630
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/INDPRO.xlsx,27314
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/M2SL.xlsx,19033
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/NFCI.xlsx,48015
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/SAHMREALTIME.xlsx,17129
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/T10YIE.xlsx,84781
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/UMCSENT.xlsx,18358
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/UNRATE.xlsx,18714
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/VIXCLS.xlsx,141207
+ZIP,.xlsx,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED Series/WALCL.xlsx,26745
+ZIP,.xlsx,Module 3 Project Datasets/Stale - Superseded/T10Y3M.xlsx,23511
+ZIP,.zip,Module 3 Project Datasets/01 S&P 500 Benchmark & Membership/S&P ConstituentMembership.zip,409040675
+ZIP,.zip,Module 3 Project Datasets/01 S&P 500 Benchmark & Membership/S&P500 Performance 1980.zip,22384
+ZIP,.zip,Module 3 Project Datasets/02 CRSP Stock Prices & Returns/CRSP Daily Stock File 1985-1999 (all share types).zip,481801443
+ZIP,.zip,Module 3 Project Datasets/02 CRSP Stock Prices & Returns/CRSP Daily Stock File 2000-2005 (all share types).zip,290415083
+ZIP,.zip,Module 3 Project Datasets/02 CRSP Stock Prices & Returns/CRSP Daily Stock File 2006-2010 (all share types).zip,249042099
+ZIP,.zip,Module 3 Project Datasets/02 CRSP Stock Prices & Returns/CRSP Daily Stock File 2011-2015 (all share types).zip,253114173
+ZIP,.zip,Module 3 Project Datasets/02 CRSP Stock Prices & Returns/CRSP Daily Stock File 2016-2020 (all share types).zip,282241122
+ZIP,.zip,Module 3 Project Datasets/02 CRSP Stock Prices & Returns/CRSP Daily Stock File 2021-2025 (all share types).zip,366108908
+ZIP,.zip,Module 3 Project Datasets/02 CRSP Stock Prices & Returns/CRSP Delisting Returns 1980-2025.zip,232240
+ZIP,.zip,Module 3 Project Datasets/02 CRSP Stock Prices & Returns/CRSP Monthly Stock File 1980-2025 (all share types).zip,92554749
+ZIP,.zip,Module 3 Project Datasets/03 Compustat Fundamentals/Compustat Quarterly_Standalone.zip,128688955
+ZIP,.zip,Module 3 Project Datasets/03 Compustat Fundamentals/CRSPCompustat Merged_Compustat Fundamentals Annual with CRSP Stock Monthly_.zip,28777397
+ZIP,.zip,Module 3 Project Datasets/04 WRDS Financial Ratios/Financial Ratios_with IBES subscription_Financial Ratios Firm Level by WRDS.zip,96808869
+ZIP,.zip,Module 3 Project Datasets/04 WRDS Financial Ratios/WRDS Financial Ratios Firm Level 2023-2025.zip,5304610
+ZIP,.zip,Module 3 Project Datasets/05 IBES Analyst Estimates/IBES Actuals.zip,32543321
+ZIP,.zip,Module 3 Project Datasets/05 IBES Analyst Estimates/IBES Summary Statistics.zip,109420629
+ZIP,.zip,Module 3 Project Datasets/06 Identifier Link Tables/CRPS_Compustate Linkage Table.zip,505538
+ZIP,.zip,Module 3 Project Datasets/06 Identifier Link Tables/IBES-CRSP Link Table 1976-2026.zip,504762
+ZIP,.zip,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/Fred add files.zip,87615
+ZIP,.zip,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED-MD Real-Time Vintages 1999-08 to 2014-12.zip,46664359
+ZIP,.zip,Module 3 Project Datasets/07 Macro - FRED & FRED-MD/FRED-MD Real-Time Vintages 2015-01 to 2025-12.zip,36321884
+ZIP,.zip,Module 3 Project Datasets/08 Return Predictors & Factors/Fama-French 5 Factors + Momentum Monthly 1980-2026.zip,10872
+ZIP,.zip,Module 3 Project Datasets/08 Return Predictors & Factors/gwz_data_csv_2025.zip,28530345
+ZIP,.zip,Module 3 Project Datasets/09 Volatility & Options/WRDS_CBOE 1980.zip,283923
+ZIP,.zip,Module 3 Project Datasets/Stale - Superseded/CRSP Daily/k7tgjozqoupr6lyf_csv.zip,197281948
+ZIP,.zip,Module 3 Project Datasets/Stale - Superseded/CRSP Daily/on8vpxlguorwmna0_csv.zip,263587553
+ZIP,.zip,Module 3 Project Datasets/Stale - Superseded/CRSP Monthly Stock File 1980_start.zip,59069839
+ZIP,.zip,Module 3 Project Datasets/Stale - Superseded/gwz_data_csv.zip,25988332
+ZIP,.zip,Module 3 Project Datasets/Stale - Superseded/IBES - CRSP Linkage.zip,504762
+ZIP,.zip,Module 3 Project Datasets/Stale - Superseded/S&P 500 Membership .zip,596720970
