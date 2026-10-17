@@ -262,7 +262,7 @@ if st.session_state.get("extended_time_series_key") != extended_key:
         )
     st.session_state["extended_time_series"] = extended_result
     st.session_state["extended_time_series_key"] = extended_key
-
+    
 def filter_chart_dates(data: pd.DataFrame) -> pd.DataFrame:
     return data.loc[
         pd.to_datetime(data["Date"]).dt.date.between(chart_start, chart_end)
